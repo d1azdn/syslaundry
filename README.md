@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./public/assets/logo.jpg" alt="logo" width="140"  height="auto" />
   
-  <h3><b>leChart</b></h3>
+  <h3><b>syslaundry</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -22,8 +22,8 @@
 
 
 
-# 📖 leChart <a name="about-project"></a>
-**leChart** is an application developed using Java as part of a university assignment. This project was designed to demonstrate core programming skills and knowledge acquired throughout the course. 
+# 📖 syslaundry <a name="about-project"></a>
+**syslaundry** is an application developed using Java as part of a university assignment. This project was designed to demonstrate core programming skills and knowledge acquired throughout the course. 
 
 ## ⚙️ Production (done)<a name="production"></a>
 This project progressed over the **course of one weeks** before its public release, following several key stages: starting with finding the core idea, implementing it using Java, and refining the functionality to meet the project requirements.
