@@ -25,6 +25,8 @@
 # 📖 syslaundry <a name="about-project"></a>
 **syslaundry** is an application developed using Java as part of a university assignment. This project was designed to demonstrate core programming skills and knowledge acquired throughout the course. 
 
+- **This project is part of a university assignment.**
+
 ## ⚙️ Production (done)<a name="production"></a>
 This project progressed over the **course of one weeks** before its public release, following several key stages: starting with finding the core idea, implementing it using Java, and refining the functionality to meet the project requirements.
 
